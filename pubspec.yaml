@@ -37,6 +37,7 @@ dependencies:
   google_maps_webservice: ^0.0.19 # A package that provides access to the Google Maps web services
   google_api_headers: ^2.0.0 # A package that helps you to generate the required headers for the Google Maps web services
   url_launcher: ^6.0.2
+  flutter_polyline_points: ^1.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -61,6 +62,7 @@ flutter:
   assets:
     - assets/icons/logo.png
     - assets/icons/icon.png
+    - assets/bg.png
 
 
   # The following line ensures that the Material Icons font is
